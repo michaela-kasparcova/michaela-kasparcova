@@ -1,4 +1,4 @@
-![Michaela (Misa) Kasparcova - MS Applied Data Science, University of Chicago](misa_chicago_banner.jpg)
+![Michaela (Misa) Kasparcova - MS Applied Data Science, University of Chicago](banner.svg)
 
 ### Graduate Student, MS in Applied Data Science — University of Chicago | B.S. Statistics, UMBC (Magna Cum Laude) | Division I Captain & Czech National Team Athlete
 
@@ -108,5 +108,3 @@ Member, Mu Sigma Rho Statistics Honor Society
 **University of Chicago** · **Chicago Booth School of Business** · **USDA National Agricultural Statistics Service** · **ESPN Statistics** · University of Maryland, Baltimore County
 
 Competing taught me to prepare relentlessly and perform when it counts. Statistics taught me how to measure it.
-
-<sub>Banner photo: [Chicago sunrise 1](https://commons.wikimedia.org/wiki/File:Chicago_sunrise_1.jpg) by Daniel Schwen, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), cropped with text added.</sub>
